@@ -8,4 +8,4 @@ var totalSubject = 5;
 const total = bangla + eng + math + phycics + higherMath;
 console.log(total);
 var average = total / totalSubject;
-console.log(average);
+console.log(average)
